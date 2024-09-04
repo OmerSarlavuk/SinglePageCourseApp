@@ -2,7 +2,7 @@
 //  PaymentViewComponent.swift
 //  SwiftTutorial3Eyl
 //
-//  Created by Ahlatci on 4.09.2024.
+//  Created by Ö.Ş on 4.09.2024.
 //
 
 import UIKit
